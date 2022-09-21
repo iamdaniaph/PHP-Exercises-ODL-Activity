@@ -9,8 +9,8 @@
 	<h1>PHP Exercise 6</h1>
 <?php
 	for ($x=1; $x<=12; $x++){
-  $format = $x * $x;
-  echo "$x * $x = $format <br />\n";
+  $product = $x * $x;
+  echo "$x * $x = $product <br />\n";
 }
 ?> 
 </body>
